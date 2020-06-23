@@ -82,6 +82,7 @@ public void setPasssword(String password)
 {
 	this.password=password;
 }
+	//getters
 public String getPassword()
 {
 	return password;
